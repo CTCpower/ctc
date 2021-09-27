@@ -8,8 +8,7 @@ public class Student {
     private String id;
     private String name;
     private int age;
-    private String email1;
-
+    private String email;
     public Student(){}
 
     public Student(String id, String name, int age) {
